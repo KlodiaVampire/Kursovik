@@ -6,11 +6,7 @@ uses
   Windows, Messages, SysUtils, Variants, Classes, Graphics, Controls, Forms,
   Dialogs, StdCtrls, Menus;
 
-<<<<<<< .merge_file_a06584
-type//dobavlen commentarij na osnovn vetku
-=======
 type//dobavlen commentarij na dop vetku
->>>>>>> .merge_file_a02552
   TForm2 = class(TForm)
     GroupBox1: TGroupBox;
     Label1: TLabel;
