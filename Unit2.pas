@@ -6,7 +6,7 @@ uses
   Windows, Messages, SysUtils, Variants, Classes, Graphics, Controls, Forms,
   Dialogs, StdCtrls, Menus;
 
-type
+type//dobavlen commentarij na dop vetku
   TForm2 = class(TForm)
     GroupBox1: TGroupBox;
     Label1: TLabel;
